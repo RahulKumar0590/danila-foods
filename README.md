@@ -1,13 +1,6 @@
 # DANILA FOODS - Company Website
 
-An introductory website for DANILA FOODS, founded in December 2024. This is a static website showcasing the company's vision, founders, and bakery ingredients products.
-
-## 🎯 About DANILA FOODS
-
-Founded in **December 2024** by three visionary partners:
-- **Anil Kumar** - Main Founder with 15+ years in the food industry
-- **Rahul Malik** - Data Scientist at Microsoft with 15+ years experience
-- **Rajeev Rana** - Reputed member of society, associated with Budhana Sugar Mill
+An introductory website for DANILA FOODS, founded in September 2023. This is a static website showcasing the company's vision, founders, and bakery ingredients products.
 
 ## 🌐 Website Sections
 
